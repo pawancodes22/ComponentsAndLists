@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+.app-background {
+  padding: 30px;
+  font-family: 'Bree Serif';
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: white;
+  border-radius: 15px;
+  margin: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.image-style {
+  height: 50px;
+}
+
+p {
+  margin: 10px 0px 0px 0px;
+}
